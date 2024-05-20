@@ -1,0 +1,5 @@
+# Build files
+*.o
+tabbed
+xembed
+config.h
